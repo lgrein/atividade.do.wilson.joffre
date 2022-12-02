@@ -1,10 +1,9 @@
-h1{
-  text-align: center; color: #1d1313
-}
-h2{
-  text-align: center;
-}
+h1{font-size: 70px; color: BLUE; text-align: center; font-style: italic;}
+
 img{
-  margin-left:  37%
+  width: 500px;
+  margin-left: 0%
 }
-p{text-align: center;}
+h3{
+  font-size: 80px
+}
